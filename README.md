@@ -1,6 +1,6 @@
 <p align="center" style="margin-bottom: 0px;">
   <img src="https://github.com/jmoya82/about-me/blob/main/about-me.png" 
-       align="center" style="width: 200px; height: auto;">
+       align="center" style="width: 500px; height: auto;">
 </p>
 
 <h1 align="center">

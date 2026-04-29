@@ -25,8 +25,9 @@ I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), w
 
 ## Sections
 
-* [Personal details](#contact-details)
-* [Research interests](./research-interests.md)
+* [Personal details](#personal-details)
+* [Research interests](#research-interests)
+* [Recommendation letters](#recommendation-letters)
 * [Curriculum vitae](https://www.dropbox.com/scl/fi/xbsluwy9jk6mqlqx8d4bu/Curriculum-vitae.pdf?rlkey=96fskx0fy377784a6wzh2cmev&e=1&dl=0)
 
 ## Personal details
@@ -57,3 +58,7 @@ The following have been relevant topics in the different projects I have been wo
 * Field Programmable Gate Array (FPGA)
 * Digital signal processing
 * Communication and networking systems
+
+## Recommendation letters
+
+* aaa

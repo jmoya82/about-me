@@ -24,9 +24,11 @@ From 2021 to 2025, I was a Senior Scientist at the Systems Group of ETH Zurich (
 I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), where I am responsible for the design and deployment of data-centric AI infrastructure, including immersion-cooled accelerated datacenters and edge-to-core computing platforms, combined with AI orchestration platforms to deliver acceleration-as-a-service solutions in partnership with hosted·ai.
 
 * [Personal details](#contact-details)
+* [Research interests](#research-interests)
 * [Curriculum vitae](https://www.dropbox.com/scl/fi/xbsluwy9jk6mqlqx8d4bu/Curriculum-vitae.pdf?rlkey=96fskx0fy377784a6wzh2cmev&e=1&dl=0)
 
 ## Personal details
+
 * **First name:** Javier
 * **Second name:** Moya
 * **Address:** 
@@ -38,3 +40,18 @@ I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), w
 * **Nationality:** Spanish
 * **Civil status:** Single
 * **Email:** [jmoya@hey.com](mailto:jmoya@hey.com)
+
+## Research interests
+
+The following have been relevant topics in the different projects I have been working on during my career:
+
+* AI orchestration
+* Immersion cooling technologies
+* Edge- and edge-to-core computing
+* Infrastructure as Code (IaC)
+* Heterogeneous computing
+* Hardware acceleration
+* FPGAs in the data center
+* Field Programmable Gate Array (FPGA)
+* Digital signal processing
+* Communication and networking systems

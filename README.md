@@ -48,6 +48,9 @@ The following have been relevant topics in the different projects I have been wo
 * [Oreol, Advanced computing technologies](https://www.oreol.ch)
 * [Design and deployment of the Heterogeneous Accelerated Compute Cluster (HACC) at ETH Zurich, with supporting tools HACC Management and HACC for cluster orchestration and application deployment](https://github.com/fpgasystems/hacc)
 * [Development of a heterogeneous computing platform based on IBM’s DOME MicroDataCenter and cloudFPGA high-performance computing platforms](https://public.3.basecamp.com/p/Qnur1ZKsueQEo4zGX2qLXSkN)
+* [Development of a power-line communications modem using FPGAs](https://public.3.basecamp.com/p/wmyMW9aCejxErdBs6DmJNRWp)
+* [Study of functional connectivity in experimental animal brains, based on the analysis of magnetic resonance imaging using unsupervised classification techniques](https://public.3.basecamp.com/p/jZtpckE7kSNJUtwztXP66bs4)
+* Development of supervised classification techniques for cardiac diagnosis support using magnetic resonance imaging and neural networks
 
 ## Recommendation letters
 

@@ -1,6 +1,10 @@
+<p align="right">
+<a href="https://www.linkedin.com/in/javier-moya-8b672a34/">LinkedIn</a> <a href="https://www.researchgate.net/profile/Javier-Moya-12">ResearchGate</a>
+</p>
+
 <p align="center" style="margin-bottom: 0px;">
   <img src="https://github.com/jmoya82/about-me/blob/main/about-me.png" 
-       align="center" style="width: 250px; height: auto;">
+       align="center" style="width: 300px; height: auto;">
 </p>
 
 <h1 align="center">

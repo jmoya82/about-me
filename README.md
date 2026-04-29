@@ -23,11 +23,15 @@ From 2021 to 2025, I was a Senior Scientist at the Systems Group of ETH Zurich (
 
 I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), where I am responsible for the design and deployment of data-centric AI infrastructure, including immersion-cooled accelerated datacenters and edge-to-core computing platforms, combined with AI orchestration platforms to deliver acceleration-as-a-service solutions in partnership with hosted·ai.
 
-
-## Sections
-
 * [Personal details](#contact-details)
 * [Curriculum vitae](https://www.dropbox.com/scl/fi/xbsluwy9jk6mqlqx8d4bu/Curriculum-vitae.pdf?rlkey=96fskx0fy377784a6wzh2cmev&e=1&dl=0)
 
 ## Personal details
-Bla
+* **First name:** Javier
+* **Second name:** Moya
+* **Address:** Hans-Holbein-Gasse 1, 6004 Lucerne, Switzerland
+* **Phone number:** +41788453799
+* **Date of birth:** 15.08.1982
+* **Nationality:** Spanish
+* **Civil status:** Single
+* **Email:** [jmoya@hey.com](mailto:jmoya@hey.com)

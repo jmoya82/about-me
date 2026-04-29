@@ -62,8 +62,9 @@ The following have been relevant topics in the different projects I have been wo
 
 ## Research projects
 
-* [Oreol, Advanced computing technoligies](https://www.oreol.ch)
+* [Oreol, Advanced computing technologies](https://www.oreol.ch)
 * [Design and deployment of the Heterogeneous Accelerated Compute Cluster (HACC) at ETH Zurich, with supporting tools HACC Management and HACC for cluster orchestration and application deployment](https://github.com/fpgasystems/hacc)
+* [Development of a heterogeneous computing platform based on IBM’s DOME MicroDataCenter and cloudFPGA high-performance computing platforms](https://public.3.basecamp.com/p/Qnur1ZKsueQEo4zGX2qLXSkN)
 
 ## Recommendation letters
 

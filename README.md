@@ -1,6 +1,6 @@
 <p align="center" style="margin-bottom: 0px;">
   <img src="https://github.com/jmoya82/about-me/blob/main/about-me.png" 
-       align="center" style="width: 200px; height: auto;">
+       align="center" style="width: 250px; height: auto;">
 </p>
 
 <!-- <h1 align="center">
@@ -18,3 +18,8 @@ In 2018, I joined GRAPIN AG (formerly DC-ONE AG), a startup in high-performance 
 From 2021 to 2025, I was a Senior Scientist at the Systems Group of ETH Zurich (ETHZ), where I designed and deployed its Heterogeneous Accelerated Compute Cluster (ETHZ-HACC) within the AMD University Program.
 
 I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), where I am responsible for the design and deployment of data-centric AI infrastructure, including immersion-cooled accelerated datacenters and edge-to-core computing platforms.
+
+* [Contact details](#contact-details)
+
+## Contact details
+Bla

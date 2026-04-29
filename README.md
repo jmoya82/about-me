@@ -29,7 +29,10 @@ I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), w
 ## Personal details
 * **First name:** Javier
 * **Second name:** Moya
-* **Address:** Hans-Holbein-Gasse 1, 6004 Lucerne, Switzerland
+* **Address:** 
+  * Hans-Holbein-Gasse 1
+  * 6004 Lucerne 
+  * Switzerland
 * **Phone number:** +41788453799
 * **Date of birth:** 15.08.1982
 * **Nationality:** Spanish

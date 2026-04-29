@@ -26,7 +26,7 @@ I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), w
 ## Sections
 
 * [Personal details](#contact-details)
-* [Research interests](#research-interests)
+* [Research interests](./research-interests.md)
 * [Curriculum vitae](https://www.dropbox.com/scl/fi/xbsluwy9jk6mqlqx8d4bu/Curriculum-vitae.pdf?rlkey=96fskx0fy377784a6wzh2cmev&e=1&dl=0)
 
 ## Personal details

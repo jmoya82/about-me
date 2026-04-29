@@ -1,11 +1,11 @@
 <p align="center" style="margin-bottom: 0px;">
   <img src="https://github.com/jmoya82/about-me/blob/main/about-me.png" 
-       align="center" style="width: 500px; height: auto;">
+       align="center" style="width: 200px; height: auto;">
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
   About Me
-</h1>
+</h1> -->
 
 I am Javier Moya Payà (born in 1982 in Alcoy, Spain), and I hold a Ph.D. in Telecommunications Engineering from the Universitat Politècnica de València (Spain), where I also obtained my B.Sc. (2007) and M.Sc. (2008) degrees in Telecommunications Engineering and Signal Processing and Communications, respectively.
 

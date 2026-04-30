@@ -26,6 +26,7 @@ I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), w
 * [Research interests](#research-interests)
 * [Research projects](#research-projects)
 * [Selected recommendation letters](#selected-recommendation-letters)
+* [Selected conferences and publications](#selected-conferences-and-publications)
 * [Curriculum vitae](https://www.dropbox.com/scl/fi/xbsluwy9jk6mqlqx8d4bu/Curriculum-vitae.pdf?rlkey=96fskx0fy377784a6wzh2cmev&e=1&dl=0)
 
 ## Research interests
@@ -59,3 +60,13 @@ The following have been relevant topics in the different projects I have been wo
 * [**Ulrich Dersch,** Head of CC Intelligent Sensor and Networks, Lucerne School of Engineering and Architecture, Horw, Switzerland](https://www.dropbox.com/scl/fi/e3jalz2o5hp92m0t7jvrg/20180404_Ulrich-Dersch.pdf?rlkey=gfnpvngkavv1zml1kub1asr3s&e=2&dl=0)
 * [**Santiago Canals,** Group Leader, Neuroscience Institute of Alicante, Spain](https://www.dropbox.com/scl/fi/m5s90dhidka5jm34amul6/20130514_Carta-de-recomanaci-de-Santiago-Canals.pdf?rlkey=t8krk5ut4pvwnbwyvrw8feqmg&e=2&dl=0)
 * [**David Moratal,** Head of the Biomedical Image Analysis Group, Center for Biomaterials and Tissue Engineering, Polytechnic University of València, Spain](https://www.dropbox.com/scl/fi/48qiqnp0c7rn7ph3fuywn/20120612_Carta-de-recomanaci-de-David-Moratal.pdf?rlkey=nrald5zqhk4bwiu5v7o11zn68&e=2&dl=0)
+
+## Selected conferences and publications
+
+* [**A Development Platform for Managed Heterogeneous Accelerated Compute Clusters: A Case Study on ETH Zurich’s AMD HACC,** Javier Moya, Matthias Gabathuler, Mario Ruiz, and Gustavo Alonso. ACM Transactions on Reconfigurable Technology and Systems (TRETS, 2026)](https://doi.org/10.1145/3805700)
+* **Channel estimation based on frame control symbol re-encoding and re-mapping in IEEE Std. 1901-2010,** Liset Marrero-Martínez, Thomas Hunziker, Javier Moya, and Stephen Dominiak. WSPLC 2017, Prague, 2017
+* **An IEEE 1901 Based PHY Simulator for MIMO PLC in Safety-Critical Applications,** Leyna Sadamori and Javier Moya. IEEE International Symposium on Power Line Communications and its Applications, Madrid, 2017
+* **Model based design of an avionics power line communications physical layer,** Jürgen Wassner, Stephen Dominiak, and Javier Moya. Digital Avionics Systems Conference (DASC), Prague, 2015.
+* **Widespread vestibular activation of the rodent cortex,** Ede A. Rancz, Javier Moya, Floarian Drawitsch, Alan M. Brichta, Santiago Canals, and Troy W. Margrie. The Journal of Neuroscience, 2015.
+* **Mechanisms of action of deep brain stimulation,** Javier Moya, Carlos Quesada, J.M. Pascual, R. Prieto, David Moratal, and Santiago Canals. FENS Forum of Neuroscience, Barcelona, 2012.
+* **A map of vestibular representation in the rodent brain revealed by functional imaging and electrophysiology,** Ede A. Rancz, Javier Moya, Floarian Drawitsch, Alan M. Brichta, Santiago Canals, and Troy W. Margrie. MRC National Institute for Medical Research Annual Conference, London, 2010.

@@ -25,7 +25,7 @@ I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), w
 
 * [Research interests](#research-interests)
 * [Research projects](#research-projects)
-* [Recommendation letters](#recommendation-letters)
+* [Selected recommendation letters](#selected-recommendation-letters)
 * [Curriculum vitae](https://www.dropbox.com/scl/fi/xbsluwy9jk6mqlqx8d4bu/Curriculum-vitae.pdf?rlkey=96fskx0fy377784a6wzh2cmev&e=1&dl=0)
 
 ## Research interests
@@ -52,7 +52,10 @@ The following have been relevant topics in the different projects I have been wo
 * [Study of functional connectivity in experimental animal brains, based on the analysis of magnetic resonance imaging using unsupervised classification techniques](https://public.3.basecamp.com/p/jZtpckE7kSNJUtwztXP66bs4)
 * Development of supervised classification techniques for cardiac diagnosis support using magnetic resonance imaging and neural networks
 
-## Recommendation letters
+## Selected recommendation letters
 
-* [Prof. Dr. Gustavo Alonso,](https://www.dropbox.com/scl/fi/qtt0x4nxen54r156anisv/20250921_Carta-de-recomanaci-de-Gustavo-Alonso.pdf?rlkey=3q28h0z1np3ftl5q7jkd28559&e=1&dl=0) Systems Group, Department of Computer Science, ETH Zurich, Switzerland
-* [Mario Ruiz Noguera,](https://www.dropbox.com/scl/fi/a2dzufmp1yg4qp5cweb5e/20250827_Carta-de-recomanaci-de-Mario-Ruiz.pdf?rlkey=kp8abagtydl55gu0dy9m6jjrn&e=2&st=90e9r99w&dl=0) AMD University Program, Dublin, Ireland
+* [Gustavo Alonso,](https://www.dropbox.com/scl/fi/qtt0x4nxen54r156anisv/20250921_Carta-de-recomanaci-de-Gustavo-Alonso.pdf?rlkey=3q28h0z1np3ftl5q7jkd28559&e=1&dl=0) Professor, Systems Group, Department of Computer Science, ETH Zurich, Switzerland
+* [Mario Ruiz Noguera,](https://www.dropbox.com/scl/fi/a2dzufmp1yg4qp5cweb5e/20250827_Carta-de-recomanaci-de-Mario-Ruiz.pdf?rlkey=kp8abagtydl55gu0dy9m6jjrn&e=2&st=90e9r99w&dl=0) Senior Member of Technical Staff, AMD University Program, Dublin, Ireland
+* [Dr. Ulrich Dersch,](https://www.dropbox.com/scl/fi/e3jalz2o5hp92m0t7jvrg/20180404_Ulrich-Dersch.pdf?rlkey=gfnpvngkavv1zml1kub1asr3s&e=2&dl=0) Head of CC Intelligent Sensor and Networks, Lucerne School of Engineering and Architecture, Horw, Switzerland
+* [Santiago Canals,](https://www.dropbox.com/scl/fi/m5s90dhidka5jm34amul6/20130514_Carta-de-recomanaci-de-Santiago-Canals.pdf?rlkey=t8krk5ut4pvwnbwyvrw8feqmg&e=2&dl=0) Group Leader, Neuroscience Institute of Alicante, Spain
+* [David Moratal,](https://www.dropbox.com/scl/fi/48qiqnp0c7rn7ph3fuywn/20120612_Carta-de-recomanaci-de-David-Moratal.pdf?rlkey=nrald5zqhk4bwiu5v7o11zn68&e=2&dl=0) Head of the Biomedical Image Analysis Group, Center for Biomaterials and Tissue Engineering, Polytechnic University of València, Spain.

@@ -46,7 +46,7 @@ The following have been relevant topics in the different projects I have been wo
 ## Research projects
 
 * [Oreol, Advanced computing technologies](https://www.oreol.ch)
-* [Design and deployment of the Heterogeneous Accelerated Compute Cluster (HACC) at ETH Zurich, with supporting tools HACC Management and HACC for cluster orchestration and application deployment](https://github.com/fpgasystems/hacc)
+* [Design and deployment of the Heterogeneous Accelerated Compute Cluster (HACC) at ETH Zurich, with supporting tools HACC Management and Development for cluster orchestration and application deployment](https://github.com/fpgasystems/hacc)
 * [Development of a heterogeneous computing platform based on IBM’s DOME MicroDataCenter and cloudFPGA high-performance computing platforms](https://public.3.basecamp.com/p/Qnur1ZKsueQEo4zGX2qLXSkN)
 * [Development of a power-line communications modem using FPGAs](https://public.3.basecamp.com/p/wmyMW9aCejxErdBs6DmJNRWp)
 * [Study of functional connectivity in experimental animal brains, based on the analysis of magnetic resonance imaging using unsupervised classification techniques](https://public.3.basecamp.com/p/jZtpckE7kSNJUtwztXP66bs4)
@@ -54,8 +54,8 @@ The following have been relevant topics in the different projects I have been wo
 
 ## Selected recommendation letters
 
-* [Gustavo Alonso,](https://www.dropbox.com/scl/fi/qtt0x4nxen54r156anisv/20250921_Carta-de-recomanaci-de-Gustavo-Alonso.pdf?rlkey=3q28h0z1np3ftl5q7jkd28559&e=1&dl=0) Professor, Systems Group, Department of Computer Science, ETH Zurich, Switzerland
-* [Mario Ruiz Noguera,](https://www.dropbox.com/scl/fi/a2dzufmp1yg4qp5cweb5e/20250827_Carta-de-recomanaci-de-Mario-Ruiz.pdf?rlkey=kp8abagtydl55gu0dy9m6jjrn&e=2&st=90e9r99w&dl=0) Senior Member of Technical Staff, AMD University Program, Dublin, Ireland
-* [Dr. Ulrich Dersch,](https://www.dropbox.com/scl/fi/e3jalz2o5hp92m0t7jvrg/20180404_Ulrich-Dersch.pdf?rlkey=gfnpvngkavv1zml1kub1asr3s&e=2&dl=0) Head of CC Intelligent Sensor and Networks, Lucerne School of Engineering and Architecture, Horw, Switzerland
-* [Santiago Canals,](https://www.dropbox.com/scl/fi/m5s90dhidka5jm34amul6/20130514_Carta-de-recomanaci-de-Santiago-Canals.pdf?rlkey=t8krk5ut4pvwnbwyvrw8feqmg&e=2&dl=0) Group Leader, Neuroscience Institute of Alicante, Spain
-* [David Moratal,](https://www.dropbox.com/scl/fi/48qiqnp0c7rn7ph3fuywn/20120612_Carta-de-recomanaci-de-David-Moratal.pdf?rlkey=nrald5zqhk4bwiu5v7o11zn68&e=2&dl=0) Head of the Biomedical Image Analysis Group, Center for Biomaterials and Tissue Engineering, Polytechnic University of València, Spain.
+* [Gustavo Alonso, Professor, Systems Group, Department of Computer Science, ETH Zurich, Switzerland](https://www.dropbox.com/scl/fi/qtt0x4nxen54r156anisv/20250921_Carta-de-recomanaci-de-Gustavo-Alonso.pdf?rlkey=3q28h0z1np3ftl5q7jkd28559&e=1&dl=0)
+* [Mario Ruiz Noguera, Senior Member of Technical Staff, AMD University Program, Dublin, Ireland](https://www.dropbox.com/scl/fi/a2dzufmp1yg4qp5cweb5e/20250827_Carta-de-recomanaci-de-Mario-Ruiz.pdf?rlkey=kp8abagtydl55gu0dy9m6jjrn&e=2&st=90e9r99w&dl=0) 
+* [Ulrich Dersch, Head of CC Intelligent Sensor and Networks, Lucerne School of Engineering and Architecture, Horw, Switzerland](https://www.dropbox.com/scl/fi/e3jalz2o5hp92m0t7jvrg/20180404_Ulrich-Dersch.pdf?rlkey=gfnpvngkavv1zml1kub1asr3s&e=2&dl=0)
+* [Santiago Canals, Group Leader, Neuroscience Institute of Alicante, Spain](https://www.dropbox.com/scl/fi/m5s90dhidka5jm34amul6/20130514_Carta-de-recomanaci-de-Santiago-Canals.pdf?rlkey=t8krk5ut4pvwnbwyvrw8feqmg&e=2&dl=0)
+* [David Moratal, Head of the Biomedical Image Analysis Group, Center for Biomaterials and Tissue Engineering, Polytechnic University of València, Spain](https://www.dropbox.com/scl/fi/48qiqnp0c7rn7ph3fuywn/20120612_Carta-de-recomanaci-de-David-Moratal.pdf?rlkey=nrald5zqhk4bwiu5v7o11zn68&e=2&dl=0)

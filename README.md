@@ -21,7 +21,7 @@ In 2018, I joined GRAPIN AG (formerly DC-ONE AG), a startup in high-performance 
 
 From 2021 to 2025, I was a Senior Scientist at the Systems Group of ETH Zurich (ETHZ), where I designed and deployed its Heterogeneous Accelerated Compute Cluster (ETHZ-HACC) within the AMD University Program.
 
-I am currently Director of Hardware Technologies at BE BRAVE AG (Switzerland), where I am responsible for the design and deployment of data-centric AI infrastructure, including immersion-cooled accelerated datacenters and edge-to-core computing platforms, combined with AI orchestration platforms to deliver acceleration-as-a-service solutions in partnership with hosted·ai.
+Since 2026, I am Director of Hardware Technologies at BE BRAVE AG (Switzerland), where I focus on the design and deployment of data-centric AI infrastructure, including immersion-cooled accelerated datacenters and edge-to-core computing platforms, integrated with AI orchestration platforms to deliver acceleration-as-a-service in partnership with hosted·ai.
 
 * [Research interests](#research-interests)
 * [Research projects](#research-projects)

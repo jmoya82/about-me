@@ -22,7 +22,7 @@ In 2018, I joined GRAPIN AG (formerly DC-ONE AG), a startup in high-performance 
 From 2021 to 2025, I was a Senior Scientist at the Systems Group of ETH Zurich (ETHZ), where I designed and deployed its Heterogeneous Accelerated Compute Cluster (ETHZ-HACC) within the AMD University Program.
 
 <!-- Since 2026, I am Director of Hardware Technologies at BE BRAVE AG (Switzerland), where I focus on the design and deployment of data-centric AI infrastructure, including immersion-cooled accelerated datacenters and edge-to-core computing platforms, integrated with AI orchestration platforms to deliver acceleration-as-a-service in partnership with hosted·ai. -->
-In 2021, I founded [Oreol KLG](https://oreol.ch) to provide consultancy services to companies with advanced acceleration and high-performance computing requirements. My recent work focuses on sustainable edge-to-core computing platforms for HPC and AI workloads, with particular emphasis on immersion-cooled infrastructures, distributed accelerated systems, and private heterogeneous computing environments. This work includes partnerships and collaborations with companies such as Submer and 2CRSi, as well as continued collaboration with ETH Zurich on heterogeneous accelerated computing initiatives.
+In 2021, I founded [Oreol KLG](https://oreol.ch) to provide consultancy services to companies with advanced acceleration and high-performance computing requirements. My recent work focuses on sustainable edge-to-core computing platforms for HPC and AI workloads, with particular emphasis on immersion-cooled infrastructures, distributed accelerated systems, and private heterogeneous computing environments. This work includes partnerships with companies such as Submer, 2CRSi, Tailscale or hosted·ai, as well as continued collaboration with ETH Zurich on heterogeneous accelerated computing initiatives.
 
 * [Research interests](#research-interests)
 * [Research projects](#research-projects)
@@ -47,7 +47,7 @@ The following have been relevant topics in the different projects I have been wo
 
 ## Research projects
 
-* [Oreol, Advanced computing technologies. Consultancy on heterogeneous accelerated computing infrastructures for HPC and AI, focusing on sustainable edge-to-core computing platforms based on immersion-cooled and distributed accelerated systems, in collaboration with ETH Zurich, Tailscale, and hosted·ai](https://www.oreol.ch)
+* [Oreol, Advanced computing technologies. Consultancy on heterogeneous accelerated computing infrastructures for HPC and AI, focusing on sustainable edge-to-core computing platforms based on immersion-cooled and distributed accelerated systems in collaboration with ETH Zurich](https://www.oreol.ch)
 * [Design and deployment of the Heterogeneous Accelerated Compute Cluster (HACC) at ETH Zurich, with supporting tools HACC Management and Development for cluster orchestration and application deployment](https://github.com/fpgasystems/hacc)
 * [Development of a heterogeneous computing platform based on IBM’s DOME MicroDataCenter and cloudFPGA high-performance computing platforms](https://public.3.basecamp.com/p/Qnur1ZKsueQEo4zGX2qLXSkN)
 * [Development of a power-line communications modem using FPGAs](https://public.3.basecamp.com/p/wmyMW9aCejxErdBs6DmJNRWp)

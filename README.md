@@ -11,7 +11,7 @@
   About Me
 </h1>
 
-I am Javier Moya Payà (born in 1982 in Alcoi, Spain), and I hold a Ph.D. in Telecommunications Engineering from the Universitat Politècnica de València (Spain), where I also obtained my B.Sc. (2007) and M.Sc. (2008) degrees in Telecommunications Engineering and Signal Processing and Communications, respectively.
+I am Javier Moya Payà (born in 1982 in Alcoi, Spain), and I hold a Ph.D. in Telecommunications Engineering from the Universitat Politècnica de València (UPV, Spain), where I also obtained my B.Sc. (2007) and M.Sc. (2008) degrees in Telecommunications Engineering and Signal Processing and Communications, respectively.
 
 I conducted my doctoral research at the Center for Biomaterials and Tissue Engineering (CBET, UPV) and the Spanish National Research Council, focusing on statistical signal processing and neuroimaging.
 

@@ -49,7 +49,7 @@ The following have been relevant topics in the different projects I have been wo
 
 ## Research projects
 
-* [Oreol, Advanced computing technologies. Consultancy on heterogeneous accelerated computing infrastructures for HPC and AI, focusing on sustainable edge-to-core computing platforms based on immersion-cooled and distributed accelerated systems in collaboration with ETH Zurich](https://www.oreol.ch)
+* [Oreol, Hetero*genius* computing.](https://www.oreol.ch) Consultancy on heterogeneous accelerated computing infrastructures for HPC and AI, focusing on sustainable edge-to-core computing platforms based on immersion-cooled and distributed accelerated systems in collaboration with ETH Zurich
 * [Design and deployment of the Heterogeneous Accelerated Compute Cluster (HACC) at ETH Zurich, with supporting tools HACC Management and Development for cluster orchestration and application deployment](https://github.com/fpgasystems/hacc)
 * [Development of a heterogeneous computing platform based on IBM’s DOME MicroDataCenter and cloudFPGA high-performance computing platforms](https://public.3.basecamp.com/p/Qnur1ZKsueQEo4zGX2qLXSkN)
 * [Development of a power-line communications modem using FPGAs](https://public.3.basecamp.com/p/wmyMW9aCejxErdBs6DmJNRWp)
